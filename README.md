@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Meghul/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Meghul/leetcode/tree/master/0046-permutations) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Meghul/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Meghul/leetcode/tree/master/0088-merge-sorted-array) |
@@ -44,5 +45,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Meghul/leetcode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Meghul/leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
