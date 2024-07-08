@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Meghul/leetcode/tree/master/0045-jump-game-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Meghul/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Meghul/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
