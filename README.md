@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Meghul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Meghul/leetcode/tree/master/0169-majority-element) |
+| [0726-number-of-atoms](https://github.com/Meghul/leetcode/tree/master/0726-number-of-atoms) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Meghul/leetcode/tree/master/0169-majority-element) |
+| [0726-number-of-atoms](https://github.com/Meghul/leetcode/tree/master/0726-number-of-atoms) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Meghul/leetcode/tree/master/0020-valid-parentheses) |
+| [0726-number-of-atoms](https://github.com/Meghul/leetcode/tree/master/0726-number-of-atoms) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Meghul/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meghul/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0726-number-of-atoms](https://github.com/Meghul/leetcode/tree/master/0726-number-of-atoms) |
 ## Monotonic Stack
 |  |
 | ------- |
