@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Meghul/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Meghul/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Meghul/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/Meghul/leetcode/tree/master/2502-sort-the-people) |
 ## Backtracking
 |  |
 | ------- |
@@ -32,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Meghul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Meghul/leetcode/tree/master/0169-majority-element) |
 | [0726-number-of-atoms](https://github.com/Meghul/leetcode/tree/master/0726-number-of-atoms) |
+| [2502-sort-the-people](https://github.com/Meghul/leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Meghul/leetcode/tree/master/0169-majority-element) |
 | [0726-number-of-atoms](https://github.com/Meghul/leetcode/tree/master/0726-number-of-atoms) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Meghul/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/Meghul/leetcode/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Meghul/leetcode/tree/master/0020-valid-parentheses) |
 | [0726-number-of-atoms](https://github.com/Meghul/leetcode/tree/master/0726-number-of-atoms) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Meghul/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/Meghul/leetcode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
