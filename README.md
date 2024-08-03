@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Meghul/leetcode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Meghul/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Meghul/leetcode/tree/master/0046-permutations) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Meghul/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Meghul/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Meghul/leetcode/tree/master/0169-majority-element) |
 | [0726-number-of-atoms](https://github.com/Meghul/leetcode/tree/master/0726-number-of-atoms) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Meghul/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
