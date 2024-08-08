@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Meghul/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Meghul/leetcode/tree/master/0189-rotate-array) |
+| [0921-spiral-matrix-iii](https://github.com/Meghul/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Meghul/leetcode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Meghul/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Meghul/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Meghul/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Meghul/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Meghul/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Meghul/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Meghul/leetcode/tree/master/0273-integer-to-english-words) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/Meghul/leetcode/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
