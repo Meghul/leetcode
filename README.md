@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Meghul/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meghul/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Meghul/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Meghul/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Meghul/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0726-number-of-atoms](https://github.com/Meghul/leetcode/tree/master/0726-number-of-atoms) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Meghul/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Meghul/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Meghul/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Meghul/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Meghul/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Meghul/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Meghul/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Meghul/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Meghul/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Meghul/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Meghul/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Meghul/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
