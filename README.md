@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Meghul/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Meghul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Meghul/leetcode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Meghul/leetcode/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Meghul/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Meghul/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Meghul/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Meghul/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghul/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Meghul/leetcode/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Meghul/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Meghul/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Meghul/leetcode/tree/master/1511-count-number-of-teams) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Meghul/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Meghul/leetcode/tree/master/0058-length-of-last-word) |
 | [0273-integer-to-english-words](https://github.com/Meghul/leetcode/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/Meghul/leetcode/tree/master/0392-is-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/Meghul/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Meghul/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0726-number-of-atoms](https://github.com/Meghul/leetcode/tree/master/0726-number-of-atoms) |
