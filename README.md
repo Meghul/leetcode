@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Meghul/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Meghul/leetcode/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/Meghul/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Meghul/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Meghul/leetcode/tree/master/0046-permutations) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Meghul/leetcode/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Meghul/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Meghul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Meghul/leetcode/tree/master/0125-valid-palindrome) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Meghul/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Meghul/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Meghul/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Meghul/leetcode/tree/master/0134-gas-station) |
