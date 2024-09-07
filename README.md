@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Meghul/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Meghul/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Meghul/leetcode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/Meghul/leetcode/tree/master/0273-integer-to-english-words) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Meghul/leetcode/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/Meghul/leetcode/tree/master/0273-integer-to-english-words) |
 ## Simulation
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Meghul/leetcode/tree/master/0002-add-two-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/Meghul/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Meghul/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
