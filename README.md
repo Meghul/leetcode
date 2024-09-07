@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Meghul/leetcode/tree/master/0002-add-two-numbers) |
+| [0092-reverse-linked-list-ii](https://github.com/Meghul/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [1484-linked-list-in-binary-tree](https://github.com/Meghul/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Meghul/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
