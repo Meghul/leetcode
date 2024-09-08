@@ -16,7 +16,7 @@ public:
             }
         }
 
-        int cnt1=0;
+        
         for(int i=0;i<nums.size();i++){
             if(ele==nums[i]){
                 cnt++;
