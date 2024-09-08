@@ -10,11 +10,12 @@ public:
                 mx=nums[i];
                 i++;
             }
-            ans+=mx-mn;
+              ans+=mx-mn; 
             while(i<n&& nums[i]<=nums[i-1]){
                 mn=nums[i];
                 i++;
             }
+         
 
         }
         return ans;
