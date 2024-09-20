@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Meghul/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Meghul/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Meghul/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Meghul/leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Meghul/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Meghul/leetcode/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/Meghul/leetcode/tree/master/0392-is-subsequence) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Meghul/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Meghul/leetcode/tree/master/0214-shortest-palindrome) |
 ## Number Theory
 |  |
 | ------- |
@@ -432,4 +434,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Meghul/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Meghul/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Meghul/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
