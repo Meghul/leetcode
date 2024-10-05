@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Meghul/leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Meghul/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Meghul/leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Meghul/leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Meghul/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Meghul/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Meghul/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Meghul/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Meghul/leetcode/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/Meghul/leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Meghul/leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Meghul/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Meghul/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Meghul/leetcode/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/Meghul/leetcode/tree/master/0392-is-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/Meghul/leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Meghul/leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Meghul/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/Meghul/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0726-number-of-atoms](https://github.com/Meghul/leetcode/tree/master/0726-number-of-atoms) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Meghul/leetcode/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Meghul/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
