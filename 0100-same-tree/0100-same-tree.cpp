@@ -16,7 +16,7 @@ public:
             return true;
         }
         if(p!=NULL && q==NULL){
-             return false;
+            return false;
         }
         if(p==NULL && q!=NULL){
             return false;
@@ -26,6 +26,6 @@ public:
 
         bool value=p->val==q->val;
 
-      return left&&right&&value;
+        return right&&left&&value;
     }
 };
