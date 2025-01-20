@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Meghul/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meghul/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Meghul/leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Meghul/leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Meghul/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Meghul/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Meghul/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Meghul/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Meghul/leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Meghul/leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Meghul/leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Meghul/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Meghul/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Meghul/leetcode/tree/master/0670-maximum-swap) |
