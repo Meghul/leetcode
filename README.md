@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Meghul/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Meghul/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Meghul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Meghul/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/Meghul/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Meghul/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Meghul/leetcode/tree/master/2035-count-sub-islands) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Meghul/leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Meghul/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Meghul/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Meghul/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Meghul/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Meghul/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Meghul/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Meghul/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Meghul/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Meghul/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Meghul/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Meghul/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Meghul/leetcode/tree/master/2502-sort-the-people) |
 | [2554-minimum-total-distance-traveled](https://github.com/Meghul/leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Meghul/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Meghul/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Meghul/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Meghul/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Meghul/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Meghul/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Meghul/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
