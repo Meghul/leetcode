@@ -16,8 +16,8 @@ public:
                 }
                 left++;
             }
-            maxlength=max(maxlength,right-(left+1));
+            maxlength=max(maxlength,right-left);
         }
-        return maxlength;
+        return maxlength-1;
     }
 };
