@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Meghul/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Meghul/leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Meghul/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Meghul/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Meghul/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Meghul/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Meghul/leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Meghul/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Meghul/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Meghul/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/Meghul/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2846-robot-collisions](https://github.com/Meghul/leetcode/tree/master/2846-robot-collisions) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Meghul/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Meghul/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Meghul/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Meghul/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Meghul/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Linked List
 |  |
 | ------- |
@@ -616,4 +620,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Meghul/leetcode/tree/master/0731-my-calendar-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Meghul/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 <!---LeetCode Topics End-->
