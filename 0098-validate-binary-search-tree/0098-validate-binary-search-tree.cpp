@@ -1,4 +1,3 @@
-
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -12,23 +11,18 @@
  */
 class Solution {
 public:
-void inorder(TreeNode* root,vector<int>&result){
+bool isBST(TreeNode*root, long min,long max){
     if(root==NULL){
-        return;
+        return true;
     }
-    inorder(root->left,result);
-    result.push_back(root->val);
-    inorder(root->right,result);
+    if(root->val<=min||root->val>=max){
+        return false;
+    }
+    bool left=isBST(root->left,min,root->val);
+    bool right=isBST(root->right,root->val,max);
+    return (left&&right);
 }
     bool isValidBST(TreeNode* root) {
-        vector<int>result;
-        inorder(root,result);
-
-        for(int i=1;i<result.size();i++){
-            if(result[i]<=result[i-1]){
-                return false;
-            }
-        }
-        return true;
+        return isBST(root,LONG_MIN,LONG_MAX);
     }
 };
